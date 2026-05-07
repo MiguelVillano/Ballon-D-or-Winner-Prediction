@@ -20,9 +20,8 @@
 | Miguel Villano            | villanom2@winthrop.edu                                                 | [Link ↗](https://github.com/MiguelVillano)|
 
 ## References
-
+Data: Most Comprehensive Football Dataset by @salimt [Source↗](https://github.com/salimt/football-datasets) [Kaggle↗](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets) 
 
 ## Acknowledgements
-README Formatting by Steven Stokes! [GitHub↗](https://github.com/Steven-S1020)
+README Formatting by Steven Stokes! [Steven's GitHub↗](https://github.com/Steven-S1020)
   - Very Warm thanks to Mathematician and Computer Scientist Steven Stokes for the formatting of this README.
-Most Comprehensive Football Dataset by @salimt [Source↗](https://github.com/salimt/football-datasets) [Kaggle↗](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets) 
