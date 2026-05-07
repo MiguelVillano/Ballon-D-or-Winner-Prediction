@@ -20,7 +20,10 @@
 | Miguel Villano            | villanom2@winthrop.edu                                                 | [Link ↗](https://github.com/MiguelVillano)|
 
 ## References
-Data: Most Comprehensive Football Dataset by @salimt [Source↗](https://github.com/salimt/football-datasets) [Kaggle↗](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets) 
+
+## Data
+Most Comprehensive Football Dataset by @salimt [Source↗](https://github.com/salimt/football-datasets) [Kaggle↗](https://www.kaggle.com/datasets/xfkzujqjvx97n/football-datasets) 
+List of Men's Ballon d'Or award winners by @Yusuf Altunbaş [Kaggle↗](https://www.kaggle.com/datasets/yusufaltunbas/list-of-mens-ballon-dor-award-winners) 
 
 ## Acknowledgements
 README Formatting by Steven Stokes! [Steven's GitHub↗](https://github.com/Steven-S1020)
